@@ -1,0 +1,15 @@
+{
+  "name": "tp_inf_bes",
+  "version": "1.0.0",
+  "description": "http proxy server",
+  "main": "index.js",
+  "dependencies": {
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Marina Novikova",
+  "homepage": "https://github.com/fillinmar/tp_inf_bes#readme"
+}
